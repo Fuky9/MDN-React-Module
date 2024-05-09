@@ -14,3 +14,5 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App tasks={DATA}/>
   </React.StrictMode>,
 )
+
+// TODO: After task completion cross it out and move it to the bottom
